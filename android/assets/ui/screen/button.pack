@@ -1,0 +1,61 @@
+
+button.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button_authors_down
+  rotate: false
+  xy: 1, 911
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+button_authors_up
+  rotate: false
+  xy: 1, 781
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+button_exit_down
+  rotate: false
+  xy: 1, 651
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+button_exit_up
+  rotate: false
+  xy: 1, 521
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+button_records_down
+  rotate: false
+  xy: 1, 391
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+button_records_up
+  rotate: false
+  xy: 1, 261
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+button_start_down
+  rotate: false
+  xy: 1, 131
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+button_start_up
+  rotate: false
+  xy: 1, 1
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
